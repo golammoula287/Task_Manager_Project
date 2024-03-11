@@ -1,0 +1,26 @@
+Step 1 : File Folder Creation
+
+Step 2 : Package Installation
+
+
+---Packages We Need for a basic Backend project----
+npm init --y (Json File)
+npm i cors
+npm i express-rate-limit
+npm i jsonwebtoken
+npm i mongoose
+npm i nodemailer
+npm i nodemon
+npm i express
+-----Security package ---------
+npm i hpp
+npm i helmet
+
+
+Step 3 : app.js Configuration
+step 4 : Run the Server 
+step 5 : User MOdel
+step 6 : tasks model creation 
+step 7 : otp model creation
+step 8 : Email Utility 
+step 9 : User Registration
